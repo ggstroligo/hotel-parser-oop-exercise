@@ -18,3 +18,7 @@ The object should respond to the following requirements:
 
 Tests have been pre-written using rspec in `/spec/hotel_parser_spec.rb`. There is a parse method in the HotelParser class located in
 `code/hotel_parser.rb`.
+
+# TODO:
+- improve specs
+- improve parser design, to receive from different formats
