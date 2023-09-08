@@ -1,3 +1,5 @@
+require File.expand_path('app')
+
 describe HotelParser do
   describe '.parse' do
     subject { HotelParser.parse(File.expand_path('db/seed.yaml')) }

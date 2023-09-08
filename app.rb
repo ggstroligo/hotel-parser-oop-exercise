@@ -1,0 +1,5 @@
+require './lib/concerns/bracket_readable'
+require './lib/hotel_parser'
+require './lib/hotel'
+require './lib/room'
+require './lib/amenity'
